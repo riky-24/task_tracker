@@ -1,0 +1,24 @@
+{
+  "name": "task_tracker",
+  "version": "1.0.0",
+  "type": "commonjs",
+  "description": "<<<<<<< HEAD # task_tracker ======= https://roadmap.sh/projects/task-tracker >>>>>>> d43fbda (Initial commit)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/riky-24/task_tracker.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/riky-24/task_tracker/issues"
+  },
+  "homepage": "https://github.com/riky-24/task_tracker#readme",
+  "dependencies": {
+    "inquirer": "^8.2.7"
+  }
+}
